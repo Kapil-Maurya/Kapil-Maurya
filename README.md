@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Kapil-Maurya
 - 👀 I’m interested in Data Analyst
 - 🌱 I’m currently learning Java
-- 
 - @kapilmaurya729@gmail.com
 
 <!---
