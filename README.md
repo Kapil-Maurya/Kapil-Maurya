@@ -22,12 +22,5 @@ Building **ExamEase Dashboard** – a smart exam support system using AWS Lambda
 
 📫 **Let's connect**  
 Email: kapilmaurya729@gmail.com  
-LinkedIn: [Kapil Maurya](https://www.linkedin.com/in/kapil-maurya-8672b4286)  
+LinkedIn: [Kapil Maurya](https://www.linkedin.com/in/kapil-maurya/) 
 GitHub: [@Kapil-Maurya](https://github.com/Kapil-Maurya)
-
----
-
-<!---
-Kapil-Maurya/Kapil-Maurya is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
