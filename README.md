@@ -5,7 +5,6 @@
 ![About Me](https://img.shields.io/badge/-👨‍💻%20About%20Me-0e75b6?style=for-the-badge&logo=github&logoColor=white)
 
 🎓 Recent **B.Sc. in Information Technology** graduate  
-☁️ Currently training in **AWS Cloud Practitioner** at Magic Bus India Foundation  
 💡 Passionate about solving problems with **data, cloud, and code**
 
 ---
